@@ -14,5 +14,5 @@ while True:
             print ("Solo numeros positivos")
             continue
     except ValueError:
-        print("SOLO NUMEROS, IMBECIL")
+        print("SOLO NUMEROS, IMBECIL")  
         
